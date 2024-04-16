@@ -1,3 +1,10 @@
-# simon-js
+# Simon (game)
 
-udemy course section 20 project
+Udemy course section 20 project
+
+Markup : * HTML
+         * CSS
+         * Javascript
+
+Javascript framework
+Markup : * jQuery
