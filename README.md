@@ -2,7 +2,9 @@
 
 Udemy course section 20 project
 
- Markup : * HTML
-          * CSS
-          * Javascript
-             * jQuery
+* HTML
+* CSS
+* Javascript
+
+Javascript framework used:
+* jQuery
